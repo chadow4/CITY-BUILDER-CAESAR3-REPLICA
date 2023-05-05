@@ -1,0 +1,9 @@
+pygame==2.1.2
+noise==1.2.2
+pygame_textinput==1.0.1
+pathfinding==1.0.1
+ffpyplayer==4.3.5
+pymediainfo==6.0.1
+
+
+# si le probleme persiste sous linux pour les vidéos installer le packet : sudo apt-get install -y libmediainfo-dev
